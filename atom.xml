@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>海林君の个人博客</title>
-  <subtitle>有颜值的独立者</subtitle>
+  <title>个人博客</title>
+  <subtitle>独行者</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hailin.bid/"/>
+  <link href=""/>
   <updated>2017-06-28T10:21:29.727Z</updated>
-  <id>http://hailin.bid/</id>
+  <id></id>
   
   <author>
-    <name>海林君</name>
-    <email>hailinchen.me@gmail.com</email>
+    <name>nick</name>
+    <email></email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
